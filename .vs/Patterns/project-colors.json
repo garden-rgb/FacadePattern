@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85163f58-46ff-4915-9ebc-c46dffdf0ade": {
+      "ProjectGuid": "85163f58-46ff-4915-9ebc-c46dffdf0ade",
+      "DisplayName": "Lab 2",
+      "ColorIndex": 0
+    },
+    "ae0c2627-67c7-46f6-83fe-d1fc1b8c4f9e": {
+      "ProjectGuid": "ae0c2627-67c7-46f6-83fe-d1fc1b8c4f9e",
+      "DisplayName": "Facade",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

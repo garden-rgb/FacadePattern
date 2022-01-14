@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Flyweight\**" />
+    <EmbeddedResource Remove="Flyweight\**" />
+    <None Remove="Flyweight\**" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 2", "Patterns\Lab 2.csproj", "{85163F58-46FF-4915-9EBC-C46DFFDF0ADE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "PatternsGoF\Facade.csproj", "{AE0C2627-67C7-46F6-83FE-D1FC1B8C4F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85163F58-46FF-4915-9EBC-C46DFFDF0ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85163F58-46FF-4915-9EBC-C46DFFDF0ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85163F58-46FF-4915-9EBC-C46DFFDF0ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85163F58-46FF-4915-9EBC-C46DFFDF0ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0C2627-67C7-46F6-83FE-D1FC1B8C4F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0C2627-67C7-46F6-83FE-D1FC1B8C4F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0C2627-67C7-46F6-83FE-D1FC1B8C4F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0C2627-67C7-46F6-83FE-D1FC1B8C4F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58AC274A-AA6D-40FA-B362-1A8D336439BF}
+	EndGlobalSection
+EndGlobal
